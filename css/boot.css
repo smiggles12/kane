@@ -1,4 +1,50 @@
+*{
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.landing-page{
+    height: 100vh;
+    /* background-color: red; */
+    position: relative;
+
+}
+.bg-video {
+    opacity: .60;
+    position: absolute;
+}
 .bg-video_content{
     width: 100%;
-    height: 100%;
+    /* z-index: ; */
+}
+
+.intro {
+    text-align: center;
+}
+
+.below-text-r{
+    text-align:right ;
+}
+.below-text-l{
+    text-align: left;
+}
+.phone-below{
+    margin-top:18rem !important;
+}
+.headers{
+    color:rgb(155, 155, 233);
+}
+
+.st-phone{
+   width: 50px;
+}
+.present{
+    font-size: 60px;
+}
+.intro{
+    padding-top: 280px;
+}
+.mini-header{
+    padding-top: 10px;
+}
+.words{
+    margin-top: 90px;
 }
